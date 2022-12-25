@@ -5,7 +5,7 @@ import Imagecarousel from './Components/Imagecarousel';
 function App() {
   return (
     <div className="App">
-      <Imagecarousel></Imagecarousel>
+      <Imagecarousel/>
     </div>
   );
 }
